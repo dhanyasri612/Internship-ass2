@@ -1,0 +1,4 @@
+venv/
+*.sqlite3
+models/*.sqlite3
+models/*.zip
